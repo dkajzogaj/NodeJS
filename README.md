@@ -1,4 +1,6 @@
 # NodeJS
+Webapp + REST servis  
+
 Project made for college in NodeJS. This project was not part of github so it does not have any pushes, branches etc and doesn't have any documentation.  
 
 To run this project firstly open terminal and change directory to folder servis. Type in next command: node restServer.js ../rwa_dkajzogaj20_conf.csv  
